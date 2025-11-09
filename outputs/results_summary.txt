@@ -1,0 +1,6 @@
+Results Overview
+- **Most affected routes:** Concentrated among long-haul or high-traffic city pairs.
+- **Worst-performing airlines:** Consistently show higher mean delays and cancellations.
+- **Wind impact:**  
+  - Wind gusts ≥10 mph **increase average delays** for both SEA and PDX.  
+  - `wind_response = True`.
